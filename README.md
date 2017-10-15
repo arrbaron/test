@@ -1,6 +1,7 @@
 # test
 This is just a test
 
-[] Create a repo
-[] Do a push
-[] Do a pull
+_Things to do_
+- [] Create a repo
+- [] Do a push
+- [] Do a pull
